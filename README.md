@@ -50,6 +50,17 @@
 
 ---
 
+### 📜 Certifications
+- **Udemy**  
+  - [Certificate 1](https://ciklum.udemy.com/certificate/UC-0fdc33f4-98bc-4546-aefb-c51a0b3e3ac3)  
+  - [Certificate 2](https://www.udemy.com/certificate/UC-2d087d99-5815-494e-9f0c-00cd5d511020/)  
+  - [Certificate 3](https://www.udemy.com/certificate/UC-2afe4cc3-0be8-4ee3-ba01-837e73fe9a30/)
+
+- **AWS**  
+  - [AWS Certified](https://www.credly.com/badges/56083783-470d-479e-b2d6-d96c8fab2b30/linked_in_profile)
+
+---
+
 ### 🎓 Education
 - **Bachelor's in Computer Science**  
   🎓 From FAST (National University of Computer and Emerging Sciences), Pakistan's top-ranked university for computer science and recognized globally.
