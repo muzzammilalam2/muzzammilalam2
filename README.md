@@ -65,7 +65,7 @@ I thrive on creating efficient and scalable solutions and am passionate about de
 <!-- - 🌐 [Your Portfolio/Website](#) -->
 - 💼 [LinkedIn](https://www.linkedin.com/in/muzzammil-alam/)
 - 📧 [Your Email](muzzammilalam2@gmail.com)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) [GitHub Profile](https://github.com/yourusername)
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) [GitHub Profile](https://github.com/muzzammilalam2)
 
 Thanks for visiting my profile! 😊
 
